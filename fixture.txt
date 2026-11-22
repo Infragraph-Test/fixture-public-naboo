@@ -1,0 +1,3 @@
+Repository: fixture-public-naboo
+Branch: release
+Revision: 1
